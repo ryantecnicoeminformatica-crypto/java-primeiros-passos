@@ -1,6 +1,9 @@
 # Java – Primeiros Passos
 
-Repositório criado para praticar os fundamentos da linguagem Java.
-Inclui programas simples como Hello World e operações básicas.
-Curso IFRS – Java 1/3.
+Repositório com exercícios básicos em Java, organizados por tema:
 
+- Básico: Hello World, Soma
+- Decisão: Par ou Ímpar
+- Repetição: Contador com for
+
+Curso IFRS – Java 1/3.
